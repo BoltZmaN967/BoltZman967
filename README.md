@@ -11,7 +11,7 @@ _   _                            _
 <h3 align="center">Full-Stack Developer · Designer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FFAA&center=true&vCenter=true&width=600&lines=Building+Kirigami+Arts+%F0%9F%8E%8E;Google+Student+Ambassador+%40+Gemini;Next.js+%2B+Supabase+%2B+Tailwind;Crafting+code+like+paper+%E2%80%94+fold+by+fold" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FFAA&center=true&vCenter=true&width=600&lines=Building+Projects+%F0%9F%8E%8E;Google+Student+Ambassador+%40+Gemini;Next.js+%2B+Supabase+%2B+Tailwind;Crafting+code+like+paper+%E2%80%94+fold+by+fold" alt="Typing SVG" />
 </p>
 
 ```
