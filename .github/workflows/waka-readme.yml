@@ -5,11 +5,19 @@ on:
     - cron: "0 0 * * *"   # runs daily at midnight UTC
   workflow_dispatch: {}
 
+permissions:
+  contents: write
+
 jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@master
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Update WakaTime Stats
+        uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
+
