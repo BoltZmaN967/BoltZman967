@@ -8,22 +8,21 @@
   </pre>
 </h1>
 
-<h3 align="center">Full-Stack Developer · Designer · Origami Founder</h3>
+<h3 align="center">Full-Stack Developer · Designer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FFAA&center=true&vCenter=true&width=600&lines=Building+Kirigami+Arts+%F0%9F%8E%8E;Google+Student+Ambassador+%40+Gemini;Next.js+%2B+Supabase+%2B+Tailwind;Crafting+code+like+paper+%E2%80%94+fold+by+fold" alt="Typing SVG" />
 </p>
 
 ```
-┌──────────────────────────────────────────────────────────┐
-│  const navanshu = {                                       │
-│    role: "Engineering Student @ SKIT Jaipur",              │
-│    title: "Google Student Ambassador (GSA 2026)",          │
-│    building: "Kirigami Arts — B2B paper art platform",     │
-│    stack: ["Next.js 14", "Supabase", "Tailwind", "GSAP"],  │
-│    currentFocus: "Full-stack builds & AI-driven creativity"│
-│  };                                                        │
-└──────────────────────────────────────────────────────────┘
+┌  ──────────────────────────────────────────────────────────  ┐
+│  const navanshu = {                                          │
+│    role: "Engineering Student @ SKIT Jaipur",                │
+│    title: "Google Student Ambassador (GSA 2026)",            │
+│    stack: ["Next.js 14", "Supabase", "Tailwind", "GSAP"],    │
+│    currentFocus: "Full-stack builds & AI-driven creativity"  │
+│  };                                                          │
+└  ──────────────────────────────────────────────────────────  ┘
 ```
 
 ---
@@ -40,9 +39,8 @@
 
 ```
 >> I design and ship full-stack products, from database schema
-   to pixel-perfect UI. Co-founder of Kirigami Arts, an origami
-   & paper-art studio serving corporates, NGOs, schools & fests.
-   Representing Google Gemini on campus as a Student Ambassador.
+   to pixel-perfect UI.Representing Google Gemini on campus as
+   a Student Ambassador.
 ```
 
 ---
@@ -91,14 +89,14 @@
 ### 🎋 Featured Project
 
 ```
-╭──────────────────────────────────────────────╮
-│  🎨  Kirigami Arts Platform                    │
-│  ────────────────────────────                 │
-│  Full-stack B2B origami & paper-art platform   │
-│  16-table Postgres schema · admin subdomain    │
-│  QR badge collectible system · Tiptap blog     │
-│  Stack: Next.js 14 · Supabase · Razorpay       │
-╰──────────────────────────────────────────────╯
+╭  ──────────────────────────────────────────────   ╮
+   🎨 Kirigami Arts Platform                       
+│  ────────────────────────────                     │
+│  Full-stack B2B origami & paper-art platform      │
+│  16-table Postgres schema · admin subdomain       │
+│  QR badge collectible system · Tiptap blog        │
+│  Stack: Next.js 14 · Supabase · Razorpay          │
+╰  ──────────────────────────────────────────────   ╯
 ```
 
 ---
